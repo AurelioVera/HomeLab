@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtube.com)
 
 <h2>Description</h2>
-Hyper-V Manager is a virtualization management tool that comes with Windows. It allows you to create, configure, and manage virtual machines (VMs) on a Hyper-V-enabled system.
+<p>Hyper-V Manager is a virtualization management tool that comes with Windows. It allows you to create, configure, and manage virtual machines (VMs) on a Hyper-V-enabled system.</p>
 
 Installation Steps:
 1. On my personal computer, activate Hyper-V by going to Control Panel > Programs
@@ -15,7 +15,7 @@ Installation Steps:
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
 - <b>Control Panel</b> 
 
